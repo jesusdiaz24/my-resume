@@ -2,6 +2,7 @@
 title: "bear's resume"
 description: "bear's amazing resume template for Jekyll and GitHub Pages sites."
 
+
 # Build settings
 markdown: kramdown
 sass:
